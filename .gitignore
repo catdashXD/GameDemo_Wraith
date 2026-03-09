@@ -1,0 +1,38 @@
+# UE4 核心忽略
+DerivedDataCache/
+Intermediate/
+Saved/
+Binaries/
+*.sln.DotSettings
+*.suo
+*.user
+*.userosscache
+*.ipch
+*.pdb
+# 编辑器缓存
+.vs/
+.idea/
+.vscode/
+# 临时文件
+*.tmp
+*.bak
+*.log
+# boss关材质
+Content/AncientSeed/
+# boss关材质
+Content/AncientTempleRuins/
+# boss资产及蓝图
+Content/boss/
+# 小关卡材质
+Content/ForestCollection2/
+# 怪物材质
+Content/ParagonGrux/
+Content/ParagonKhaimera/
+Content/ParagonMorigesh/
+Content/ParagonRampage/
+Content/ParagonRevenant/
+Content/ParagonSevarog/
+Content/ParagonWraith/
+Content/TrapsPack/
+# 关卡地图
+Content/LevelMap/
